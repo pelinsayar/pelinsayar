@@ -1,4 +1,4 @@
-<img src="https://github.com/akay35/image/blob/main/DALL%C2%B7E%202024-1.webp" alt="This is my world" width="600" height="500"/>   
+<img src="https://github.com/pelinsayar/images/blob/main/pelin.jpeg" alt="This is my world" width="600" height="500"/>   
 <h1 style="color:green; font-family:Arial; text-align:center;">Pelin SAYAR ✨</h1>
 
 <h2 style="color:green; font-family:Arial; text-align:center;">Data Scientist, Msc Biomedical Engineer</h2>
@@ -11,12 +11,14 @@ Skills
 - 🔍 Recommendation Systems
 - 🛠️ Feature Engineering 
 
+<hr style="border: 1px solid rgba(0,0,0,0.1); width: 50%;">
 - Python 🐍: Mastering programming for data manipulation, analysis, and machine learning.
 - SQL 🛢️: Querying and managing databases efficiently.
 - Machine Learning 🤖: Designing and deploying predictive models.
 - Deep Learning 🧠: Building neural networks and advanced AI models.
 - Big Data Tools 🗂️: Proficiency in Hadoop, Spark, or similar technologies.
 
+<hr style="border: 1px solid rgba(0,0,0,0.1); width: 50%;">
 Analytical and Statistical Skills:
 - Statistics & Probability 🎲: Foundation of hypothesis testing and data insights.
 - Data Wrangling 🧹: Cleaning and preprocessing messy data.
@@ -28,12 +30,14 @@ Analytical and Statistical Skills:
 - Business Acumen 💼: Understanding the context and application of data science solutions.
 - Collaboration 🤝: Teamwork with engineers, analysts, and business leaders.
 
+<hr style="border: 1px solid rgba(0,0,0,0.1); width: 50%;">
 Emerging and Advanced Skills:
 - Natural Language Processing (NLP) 🗣️💻: Extracting insights from text data.
 - Computer Vision 👁️‍🗨️: Analyzing image and video data.
 - Cloud Computing ☁️: Deploying models and data pipelines (e.g., AWS, Azure, GCP).
 - Generative AI ✨: Creating content with models like GPT or DALL·E.
 
+<hr style="border: 1px solid rgba(0,0,0,0.1); width: 50%;">
 Tools and Libraries:
 - TensorFlow & PyTorch 🔧: Frameworks for deep learning.
 - Pandas & NumPy 🐼📐: Data manipulation and numerical analysis.
