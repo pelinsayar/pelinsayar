@@ -6,10 +6,10 @@
 
 <h2 style="color:blue; font-family:Arial; text-align:left;">Skills:</h2>
 
-- 📊 CRM Analytics ( RFM - CLTV - CLTV Prediction ( BG-NBD, GAMMA GAMMA ) )
-- 📏 Measurement Problems ( Rating Products, Sorting Products, Sorting Reviews, A/B Testing, Statical Hypothesis )
-- 🔍 Recommendation Systems
-- 🛠️ Feature Engineering 
+- 📊 CRM Analytics (RFM Analysis- CLTV - CLTV Prediction)
+- 📏 Measurement Problems (Rating Products, Sorting Products, Sorting Reviews, A/B Testing, Statical Hypothesis)
+- 🔍 Recommendation Systems (Association Rule Learning, Item and User Based Collaborative Filtering, Content-Based Recommendation, Model-Based Matrix Factorization
+- 🛠️ Feature Engineering (Outliers, Missing Values, Encoding Scaling, Feature Extraction)
 - Python 🐍: Mastering programming for data manipulation, analysis, and machine learning.
 - SQL 🛢️: Querying and managing databases efficiently.
 - Machine Learning 🤖: Designing and deploying predictive models.
