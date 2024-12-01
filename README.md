@@ -47,7 +47,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn Profile" width="100" height="100"/>
 </a>
 <a href="https://medium.com/@peliinsayar">
-  <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="100" height="100"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1358/1*jfdwtvU6V6g99q3G7gq7dQ.png" width="100" height="100"/>
 </a>
 
 
