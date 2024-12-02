@@ -1,4 +1,4 @@
-<img src="https://github.com/pelinsayar/images/blob/main/pelin.jpeg" alt="This is my world" width="550" height="500"/>   
+<img src="https://github.com/pelinsayar/images/blob/main/Image_2.webp" alt="This is my world" width="500" height="500"/>   
 <h1 style="color:green; font-family:Arial; text-align:center;">Pelin SAYAR ✨</h1>
 
 <h2 style="color:green; font-family:Arial; text-align:center;">Data Scientist, Msc Biomedical Engineer</h2>
@@ -6,7 +6,7 @@
 
 <h2 style="color:blue; font-family:Arial; text-align:left;">Skills:</h2>
 
-- 📊 CRM Analytics (RFM Analysis- CLTV - CLTV Prediction)
+- 📊 CRM Analytics (RFM Analysis, CLTV, CLTV Prediction)
 - 📏 Measurement Problems (Rating Products, Sorting Products, Sorting Reviews, A/B Testing, Statical Hypothesis)
 - 🔍 Recommendation Systems (Association Rule Learning, Item and User Based Collaborative Filtering, Content-Based Recommendation, Model-Based Matrix Factorization
 - 🛠️ Feature Engineering (Outliers, Missing Values, Encoding Scaling, Feature Extraction)
