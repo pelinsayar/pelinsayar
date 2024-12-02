@@ -1,7 +1,7 @@
 <img src="https://github.com/pelinsayar/images/blob/main/Image_2.webp" alt="This is my world" width="500" height="500"/>   
 <h1 style="color:green; font-family:Arial; text-align:center;">Pelin SAYAR ✨</h1>
 
-<h2 style="color:green; font-family:Arial; text-align:center;">Data Scientist, Msc Biomedical Engineer</h2>
+<h2 style="color:green; font-family:Arial; text-align:center;">Data Scientist, MSc. Biomedical Engineer</h2>
 <hr style="border: 1px solid rgba(0,0,0,0.1); width: 50%;">
 
 <h2 style="color:blue; font-family:Arial; text-align:left;">Skills:</h2>
